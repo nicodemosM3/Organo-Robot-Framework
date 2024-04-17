@@ -1,4 +1,4 @@
-//Setup para o Robot e Selenium
+//Setup de biblioteca e recursos para o Robot e Selenium
 *** Settings ***
 Library    SeleniumLibrary
 Library    FakerLibrary    locale=pt_BR

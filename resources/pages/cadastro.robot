@@ -1,3 +1,4 @@
+//Automação para criar o cadastro dos cards
 *** Settings ***
 Resource    ../main.robot
 

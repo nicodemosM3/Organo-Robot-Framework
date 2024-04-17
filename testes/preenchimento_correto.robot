@@ -1,4 +1,4 @@
-//Automação preenchimento correto do formulário
+//Automação preenchimento correto do formulário do card
 *** Settings ***
 Resource           ../resources/main.robot
 Test Setup         Dado que eu acesse o Organo

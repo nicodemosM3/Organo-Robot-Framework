@@ -1,3 +1,4 @@
+//Instruções padrões para a automação executar no início, setup, e no fim da automação, teardown.
 *** Settings ***
 Resource    ../main.robot
 
